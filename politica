@@ -1,0 +1,3 @@
+for (var i = 0; i < brasilCampeao.comprimento; i++) {      
+    console.log(`Brasil foi campeão da copa do mundo nos anos ${brasilCampeao[i]}!`)
+    }
